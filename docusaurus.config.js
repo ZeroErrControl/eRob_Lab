@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/zeroerr-logo.png',
 
   // Set the production url of your site here
-  url: 'https://eroblabcom.godaddysites.com',
+  url: 'https://zeroerrcontrol.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
