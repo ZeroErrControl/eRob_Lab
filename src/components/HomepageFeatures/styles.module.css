@@ -1,0 +1,10 @@
+.featureImg {
+  height: 200px; /* Set to your desired fixed height */
+  width: auto;   /* Maintain aspect ratio */
+  object-fit: cover; /* Ensures the image covers the space without distortion */
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}

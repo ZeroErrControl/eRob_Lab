@@ -1,0 +1,27 @@
+{
+  "id": "eRob_developer/ROS2-moveIt",
+  "title": "MoveIt2",
+  "description": "---",
+  "source": "@site/docs/eRob_developer/ROS2-moveIt.md",
+  "sourceDirName": "eRob_developer",
+  "slug": "/eRob_developer/ROS2-moveIt",
+  "permalink": "/docs/eRob_developer/ROS2-moveIt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eRob_developer/ROS2-moveIt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nvidia Isaac Sim",
+    "permalink": "/docs/eRob_developer/Nvidia-Isaac-sim"
+  },
+  "next": {
+    "title": "Chat with eRob",
+    "permalink": "/docs/eRob_developer/LLM-python-TwinCAT"
+  }
+}

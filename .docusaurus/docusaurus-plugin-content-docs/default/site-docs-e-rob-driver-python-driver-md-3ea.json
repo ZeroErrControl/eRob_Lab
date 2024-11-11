@@ -1,0 +1,27 @@
+{
+  "id": "eRob driver/python-driver",
+  "title": "Python (Windows)",
+  "description": "---",
+  "source": "@site/docs/eRob driver/python-driver.md",
+  "sourceDirName": "eRob driver",
+  "slug": "/eRob driver/python-driver",
+  "permalink": "/docs/eRob driver/python-driver",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eRob driver/python-driver.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TwinCAT3 (Windows)",
+    "permalink": "/docs/eRob driver/TwinCAT3"
+  },
+  "next": {
+    "title": "SOEM (Windows)",
+    "permalink": "/docs/eRob driver/SOEM EtherCAT"
+  }
+}

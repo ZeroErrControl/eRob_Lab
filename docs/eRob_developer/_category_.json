@@ -1,0 +1,8 @@
+{
+  "label": "eRob developer",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Here we showcase eRob development project, such as controlling the eRob collaborative robot with MoveIt and driving eRob on ROS2 platform."
+  }
+}

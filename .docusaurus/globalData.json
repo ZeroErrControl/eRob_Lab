@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "eRob driver/CAN-Linux",
+              "path": "/docs/eRob driver/CAN-Linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/CANopen-Linux",
+              "path": "/docs/eRob driver/CANopen-Linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/Hardware",
+              "path": "/docs/eRob driver/Hardware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/IGH EtherCAT",
+              "path": "/docs/eRob driver/IGH EtherCAT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/python-driver",
+              "path": "/docs/eRob driver/python-driver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/SOEM EtherCAT",
+              "path": "/docs/eRob driver/SOEM EtherCAT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/SOEM EtherCAT Linux",
+              "path": "/docs/eRob driver/SOEM EtherCAT Linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob driver/TwinCAT3",
+              "path": "/docs/eRob driver/TwinCAT3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob_developer/LLM-python-TwinCAT",
+              "path": "/docs/eRob_developer/LLM-python-TwinCAT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob_developer/Nvidia-Isaac-sim",
+              "path": "/docs/eRob_developer/Nvidia-Isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "eRob_developer/ROS2-moveIt",
+              "path": "/docs/eRob_developer/ROS2-moveIt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Chat-with-eRob",
+              "path": "/docs/tutorial-extras/Chat-with-eRob",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Chat-with-eRobo3",
+              "path": "/docs/tutorial-extras/Chat-with-eRobo3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/erob-drivers",
+              "path": "/docs/category/erob-drivers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/erob-developer",
+              "path": "/docs/category/erob-developer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/chat-with-erob",
+              "path": "/docs/category/chat-with-erob",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

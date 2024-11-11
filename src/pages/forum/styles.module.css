@@ -1,0 +1,27 @@
+.forumContainer {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .forumSections {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .section {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .section h2 {
+    color: #007bfc;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,107 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0c7edb;
+  --ifm-color-primary-dark: #1675b4;
+  --ifm-color-primary-darker: #062f52;
+  --ifm-color-primary-darkest: #070808;
+  --ifm-color-primary-light: #1e3a64;
+  --ifm-color-primary-lighter: #1887a8;
+  --ifm-color-primary-lightest: #062f55;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(7, 190, 214, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #08e6d3;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+/* 修改选中列表项的背景颜色 */
+.sidebar .menu__list-item--active > a {
+  background-color: #25d7ee; /* 自定义背景颜色 */
+  color: #000; /* 修改字体颜色，确保可见 */
+}
+
+/* 修改鼠标悬停时的背景颜色 */
+.sidebar .menu__list-item > a:hover {
+  background-color: #b2ebf2; /* 自定义背景颜色 */
+}
+
+/* 修改导航项下子列表的背景颜色 */
+.sidebar .menu__list-item--active .menu__list {
+  background-color: #07d3ee; /* 自定义背景颜色 */
+}
+
+
+
+.hardware-main {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  font-weight: bold;
+}
+
+
+
+.hardware-main img {
+  width: 100%;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.hardware-lists {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 10px;
+  font-weight: bold;
+}
+
+.hardware-lists img {
+  width: 250px;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.forumContainer {
+  text-align: center;
+  padding: 20px;
+}
+
+.forumSections {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.section {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section h2 {
+  color: #007bfc;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+

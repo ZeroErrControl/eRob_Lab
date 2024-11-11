@@ -1,0 +1,8 @@
+{
+  "label": "eRob Drivers",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "There are three different communication protocols to drive eRob on various platfroms: CAN, CANopen, and EtherCAT."
+  }
+}

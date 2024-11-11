@@ -1,0 +1,27 @@
+{
+  "id": "eRob_developer/Nvidia-Isaac-sim",
+  "title": "Nvidia Isaac Sim",
+  "description": "What Is Isaac Sim?",
+  "source": "@site/docs/eRob_developer/Nvidia-Isaac-sim.md",
+  "sourceDirName": "eRob_developer",
+  "slug": "/eRob_developer/Nvidia-Isaac-sim",
+  "permalink": "/docs/eRob_developer/Nvidia-Isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eRob_developer/Nvidia-Isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eRob developer",
+    "permalink": "/docs/category/erob-developer"
+  },
+  "next": {
+    "title": "MoveIt2",
+    "permalink": "/docs/eRob_developer/ROS2-moveIt"
+  }
+}
