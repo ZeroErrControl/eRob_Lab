@@ -25,13 +25,13 @@ jobs:
           cache: yarn
 
       - name: dependencies install
-        run: yarn
+        run: npm install
 
       - name: make docs
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          yarn build
+          npm build
 
       - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4.6.4
